@@ -1,1 +1,1 @@
-![](https://api.dozy.top/svg-test)  
+![xaidozy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaidozy)
