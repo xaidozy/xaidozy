@@ -1,1 +1,1 @@
-![](https://api.dozy.top/card/bilibili-badge)
+![](https://api.dozy.top/card/dash)
